@@ -1,0 +1,22 @@
+/* Put any additional CSS here */
+body {
+  background-color: #333;
+}
+#title{
+	font-size: 48px;
+	text-align: center;
+	text-decoration: underline;
+	color:#6666FF;
+}
+#app-container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  width: 800px;
+}
+canvas {
+  border: 1px solid black;
+  background-image: url("../background.jpg");
+  background-size: 800px 600px;
+}
+
